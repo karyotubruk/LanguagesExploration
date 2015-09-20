@@ -90,7 +90,8 @@ end
         
         
         // 21. Cara mendapatkan nilai konstanta
-        System.out.println("[3.14] PublicClass.PI = " + PublicClass.PI);
+        print "[3.14] publicClass.PI = "
+        puts PI
         
         # 22. Cara menginstansiasi kelas dengan turunannya
         publicSubClass = PublicSubClass.new
