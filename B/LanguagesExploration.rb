@@ -89,8 +89,9 @@ end
         puts @@staticInt
         
         
-        // 21. Cara mendapatkan nilai konstanta
+        # 21. Cara mendapatkan nilai konstanta
         print "[3.14] publicClass.PI = "
+        PI=3.14
         puts PI
         
         # 22. Cara menginstansiasi kelas dengan turunannya
